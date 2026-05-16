@@ -18,7 +18,7 @@ Minha atuação é pautada pela entrega de soluções robustas, desde a criaçã
 ### 🛠 Tech Stack & Ecosystem
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Senior Stack** | ![PHP](https://img.shields.io/badge/php-%23777BB2.svg?style=for-the-badge&logo=php&logoColor=white) ![Magento](https://img.shields.io/badge/magento-%23EE6723.svg?style=for-the-badge&logo=magento&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Senior Stack** | ![PHP](https://img.shields.io/badge/php-%23777BB2.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Modern Stack** | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
 | **Infra & Cloud** | ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 
